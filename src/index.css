@@ -1,0 +1,13 @@
+
+:root{
+  --main-color:red;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+}
+
+.main{
+  color:var(--main-color);
+}
